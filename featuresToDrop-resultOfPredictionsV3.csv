@@ -1,0 +1,50 @@
+Industrial_process,Machines,LdropAnalized,NbExtremeValuesToDrop,avg_relative_gap_CatBoost,avg_relative_gap_LR,goodPrediction,MachineName,EXPORTED ?
+1,0,length,15,"7,38","5,46",acceptable,"Transport 1, inkjet reading sheets (before the plank is instilled)",Alexis y
+1,1,"numbers,length,month",0,"0,58","-4,81",acceptable,"Transport 1, inkjet reading sheets (before the plank is instilled)",Alexis y
+1,2,"month,thickness",0,2,"2,07",bad CB - acceptable LR,External crushing line,Alexis y
+2,0,"length,numbers,month",6,"-0,26","-0,42",yes- yes,Edge milling unit including welding of slats,Clément y
+2,1,month,6,"-0,28","0,26",a bit - a bit,Bridge cranes (1-2 spans),Clément y
+3,0,month,0,"-2,77","1,27",yes - yes,Edging press pumps,Clément y
+3,1,"month,diameter,length",10,"-0,57","0,12",yes - yes,Edging press ,Clément y
+4,0,"month,length",10,-13,"-0,21",,PSF 12 m,Henri y
+4,1,"weight,thickness,length,diameter,month",10,"-13,68","-0,34",,PSF 12 m,Henri y
+4,2,"month,length",5,"-6,92","-2,76",,PSF 12 m,Henri y
+4,3,"month,length",0,"-7,8","-2,75",yes - yes,PSF 12 m,Henri y
+4,4,"month,length",0,"-8,95","-1,02",yes - yes,PSF 12 m,Henri y
+4,5,"month,length",0,"-12,88","-0,55",no - no,PSF 12 m,Henri y
+4,6,"month,length",15,"-14,36","-1,44",no - no,PSF 12 m,Henri y
+4,7,"month,length",0,"-16,1","-0,4",no - no,PSF 12 m,Henri y
+4,8,"month,length",0,"-1,16","-0,21",a bit - no,PSF 12 m - 40% + PSF 18 m - 60%,Henri y
+4,9,"month,length",0,"-1,27","1,63",a bit - yes,PSF 18 m,Henri y
+4,10,"weight,thickness,length,diameter,numbers",0,"0,56","1,87",bad - bad,Boiler room,Henri y
+4,11,"thickness,length,numbers,month",0,"0,16","-0,77",bad - bad,Bridge cranes (3-4 spans),Henri y
+5,0,length,-200,"-0,27","-0,3",yes - yes,Edging press,Alexis y
+6,0,"diameter,length,month",15,"-3,41","-0,07",a bit - a bit,Transport 2 (SSS),Henri y
+6,1,"thickness,length,month",15,"-1,47","-2,39",no - a bit,"Inner welding mills, transport 3 (transport between inside and outside welding)",Henri y
+6,2,"length,month",15,"-0,07","-1,39",no - a bit,Inner welding mills,Henri y
+6,3,"weight,length,month",50,"-3,37","0,29",no - no,Transport 4 (outdoor welding mills),Henri y
+7,0,length,-200,"0,39","0,35",yes - yes,Outdoor welding mills,Michaël y
+7,1,length,-200,"-3,2","-1,65",yes - yes,Outdoor welding mills,Michaël y
+8,0,"length,month,weight,thickness,diameter",-5,- 0.06,"0,25",acceptable - acceptable,Expander 1,Michaël y
+8,1,"length,month,weight,thickness,diameter",0,0.84,"-0,95",acceptable - a bit,Expander 1,Michaël y
+8,2,"month,length",0,-1.48,"0,04",acceptable - a bit,Expander 2,Michaël y
+8,3,"month,length",0,-2.93,"0,04",acceptable - a bit,Expander 2,Michaël y
+8,4,"month,length",0,-1.64,"0,06",acceptable - a bit,Expander 2,Michaël y
+8,5,"month,length",0,-0.32,"-0,05",acceptable - a bit,Expander 2,Michaël y
+8,6,"diameter,weight,length,month",0,-0.32,"0,59",acceptable - a bit,Expander 1,Michaël y
+8,7,"diameter,weight,length,month",0,-0.66,"0,24",bad-a bit,Expander 1,Michaël y
+8,8,"length,month,weight,thickness,diameter",-7,-5.19,-1.15,bad - a bit,"Transport 5 (Expanders, X-ray ends, hydropress)",Michaël y
+8,9,"length,month,weight,thickness,diameter",200,-4.23,"0,28",a bit-  bad,Expander 2,Michaël y
+8,10,"month,numbers",0,-5.28,0.3,a bit - bad ,Expander 1,Michaël y
+9,0,month,-200,"-1,42","-0,28",bad - acceptable,Hydrostatic Test Press,Michaël y
+9,1,"thickness,weight,length,month",0,"-1,1","1,09",a bit - a bit,Hydrostatic Test Press,Michaël y
+9,2,"month,length",0,"-2,28","0,87",a bit - acceptable,Hydrostatic Test Press,Michaël y
+9,3,"month,length,thickness",0,"2,39","0,06",yes - acceptable,Transport 6 (chamfer and gain removal),Michaël y
+9,4,"month,length",-42,"-10,49","-0,44",a bit - yes,Installation for chamfering and trimming,Michaël y
+9,5,"numbers,length",0,"0,05","-0,47",a bit - yes,Hydrostatic Test Press,Michaël y
+9,6,"weight,length,month,thickness",0,"-1,41","0,84",a bit - yes,"Transport 8, installation of chamfering",Michaël y
+10,0,"length,month,numbers,diameter",0,"2,79","-3,33",a bit - yes,Transport 7 (X-ray cameras),Clément y
+10,1,"length,thickness",0,"-5,8","-3,04",acceptable - yes,"Extruder, compressed air system",Clément y
+11,0,"numbers,length,month",5,"2,47","0,86",acceptable -acceptable,"Extruder A, B for polyethylene",Clément  y
+11,1,"month,thickness,weight",100,"1,84","1,57",a bit - bad,"Extruder A, B for polyethylene",Clément y
+11,2,"length,thickness,weight",1,"-5,48","1,82",a bit - acceptable,"Pipe end cleaning, Extruder",Clément y

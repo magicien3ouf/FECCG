@@ -1,0 +1,11 @@
+﻿1-Shot Blasting (outer coating)
+2-Edge cutter
+3-Hemming
+4-FFS 12 18 press
+5-Assembly mill
+6-Internal welding
+7-External welding
+8-Expansion
+9-Trimming
+10-Subcoating
+11-Outer coating
